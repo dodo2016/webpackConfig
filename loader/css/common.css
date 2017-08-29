@@ -1,0 +1,16 @@
+@import "flex.css";
+html,body,ul,li{
+    padding: 0;
+    margin: 0;
+    background: red;
+}
+ul,li{
+    list-style: none;
+}
+
+.flex-box{
+    display: flex;
+}
+.ds{
+    border-radius: 5px;
+}
